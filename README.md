@@ -55,8 +55,6 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 
 
 
-
-
 ## Fucking It Up - Incomplete or incorrect metadata 
 - Incorrect metadata creates confusion and might impact your label’s reputation among fans and industry professionals. Consequently, maintaining accurate metadata helps to: Reduced discoverability, Incorrect categorization and Potential loss of revenue due to inaccurate play counts and sales figures.
 - loss of revenue
@@ -90,5 +88,107 @@ Attention to accurate metadata is a sound investment in your record label’s fu
   -  https://ddex.net/
 - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - https://musicbrainz.org
-
+  
 - https://musicbiz.org/wp-content/uploads/2016/04/MusicMetadataStyleGuide-MusicBiz-FINAL2.0.pdf
+
+
+# Metadata style guide
+## Album level Meta-data
+
+### Artist Names
+
+### Release Title
+
+### Special characters & foreign language
+
+### Genres
+
+### Artwork
+
+### Catalog Number
+
+### Barcodes (UPC's and EAN's)
+
+### Album Release Date
+
+#### Lead Time
+
+#### Holiday Schedules
+
+### Album Description
+
+### Keywords & Tags
+
+### Exclusive Periods
+
+## Track Meta-data
+
+
+
+## Album level Meta-data
+
+## Track Meta-data
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# ISRC: 
+
+- Make sure you use the same ISRC code anytime you re-release a track that has already been previously assigned an ISRC cod
+- The exception to this rule is if the re-released track has been edited, remixed, remastered, or manipulated in any way
+- In the case for remixes, edits, remasters, etc, a new ISRC should be issued.
+- 
+- ISRC's are an international standard used to uniquely identify sound recordings and music video recordings.
+- https://en.wikipedia.org/wiki/International_Standard_Recording_Code
+
+
+--------------------------------------------------------------------------------------------------------------------------
+# UGC 
+- User-created content found on services such as TikTok, Snapchat, Instagram, Meta/ Facebook, YouTube. This may include some services that rely on audio finger-printing to identify content across the entire platform.
+- YouTube, Facebook/Instagram, TikTok and other UGC services do not allow the following types of audio: background noise, nature sounds with no music, spoken word, sound effects, audio books, etc.
+
+## Prohibited content 
+- files containing watermarks
+- remixes
+- creative commons
+- samples
+- any 3rd party content
+- nature sounds
+- sound effects
+- sound-alikes
+- karaoke recordings
+- audiobooks
+- drum loops
+- film scores
+- meditation, yoga, or sleep music
+- dj set or continuous mixes
+- production loops / soundbeds
+- soundscapes
+- podcasts
+- wspoken word
+- any beats that are licensed and unlicensed (all beats must be originally composed)
+- tracks produced for other artists (you must own the master and/or publishing)
+- classical music recordings of compositions in the public domain
+
+--------------------------------------------------------------------------------------------------------------------------
+# UPC
+- A Universal Product Code (UPC), also known as a barcode is a unique identification number consisting of 12 or 13 digits and is used for tracking of your product. It is required by all DSP's.
+-  If you make certain changes to the contents of your release; i.e. add, remove, or re-order tracks, a new UPC must be assigned. This is a requirement for many DSP's including iTunes, Spotify, and others.
+-  EXCEPTIONS: You can freely edit other details such as artwork, audio files, descriptions, artist names, track titles, genre, publishing and copyright info without having to issue a new UPC.
+
+## Updating your UPC/EAN
+-  do a full takedown of the existing product
+
+
+
+
+
+
+
+
+
+
+
+
+
