@@ -75,12 +75,9 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 - Avoid using special characer sor emojis
 - Add all relevant genre tags to improve discoverability
 
-- having correct metadata: 
- - attract the right audiences
- - increase the likelihood of playlist placements
- - encourage long-term growth and sustainability for your label
+- having correct metadata can help attract the right audiences, increase the likelihood of playlist plcements, and encourage long-term groth and sustainability for label.
 
-## Conclusion - why metadata accuracy is important. 
+## Conclusion - Why tf does metadata matter? 
 It helps you stay organized and manage your growing catalogue efficiently. Proper metadata ensures that your music gets recognized by distributors, streaming platforms, and digital stores. Your artists will benefit from increased visibility, attracting broader audiences and potential fans. Efficient metadata management can lead to accurate royalty payments and prevent lost revenue.
 
 Keep these critical takeaways in mind as you manage and maintain your record label’s metadata:
