@@ -92,42 +92,159 @@ Attention to accurate metadata is a sound investment in your record label’s fu
 - https://musicbiz.org/wp-content/uploads/2016/04/MusicMetadataStyleGuide-MusicBiz-FINAL2.0.pdf
 
 
+
 # Metadata style guide
+
+
 ## Album level Meta-data
 
 ### Artist Names
+- Each artist should be entered separately as a Main Artist or Featured Artist. If an artist is part of a group i.e. "Doge & Fuski", and these artists always appear together on all music, enter them as a single primary artist.
+- However, if these two people are separate producers or artists, make sure you enter their names as separate artists when you add them to your track
+- *Do not use (&)* unless the artist is a true duo act and their stage name really uses the ampersand. Example: For "Hall & Oates" you would use the ampersand in this case because that is the name of the entire band. However, for "Paul McCartney & Stevie Wonder", you would not use the ampersand or 'and' in the artist name. You would instead enter each artist as a separate main artist in the artist field.
+- Please do not put remix artists in the artist field. There is a separate field for remix artists.
+- Do not use all caps, unless it is absolutely necessary and represents how the artists wishes their name to always be listed.
 
 ### Release Title
+- There are just a few rules that most DSP's enforce when it comes to album release titles.
+- Avoid using all caps unless expressly required. (These recommendations also apply to track titles)
+- Do not include the word "EP" or "LP" or "Single" in your title, or they may be rejected by the DSP's (These recommendations also apply to track titles)
 
 ### Special characters & foreign language
+- Please no special characters other than those used in Latin-based and English languages.
+- Many retail partners use the UTF-8 character set, but not all of them support UTF-8. It's always safest to use the simplest possible character set
+- Avoid platform-specific characters such as "smart quotes." Instead, use simple single or double quotes, and avoid user-defined characters and pictograms such as smileys or emoticons.
 
 ### Genres
+- You can choose 2 genres that fit your release. Only choose the genres that best fit the category of the particular release's music. If you misclassify your music, you may start having problems with your listings on the DSP's.
 
 ### Artwork
+- JPEG format at 3000x3000px 72DPI.
+- If 3000x3000 is not available, please provide the absolute largest version you can up to 2000px.
 
 ### Catalog Number
 
+- A catalog number ("cat number") is the identification number a record label assigns to a release. It is used for tracking purposes by both the label and the distributor. It is composed of numbers and letters.
+- For example, the 5th release on "Plush Recordings" has a catalog number of "PLUSH005". We suggest you follow a similar method for setting your own catalog numbers
+- Using leading zeros is common but not necessary.
+
+
 ### Barcodes (UPC's and EAN's)
+= How do create these? 
 
 ### Album Release Date
+- This will be the official release date the release will become available on all retailers.
 
 #### Lead Time
+- highly recommend you give 1 week minimum lead-time to give the DSP's editorial teams a chance to see your release and consider it for featuring
+- Spotify has a 1 week minimum lead-time for Release Radar inclusion
+- Additionally, you want to give ample lead-time in case a mistake is made when you enter your meta-data or if you need to replace a file
+- Otherwise, if an update is needed at the last minute, you risk missing your release date due to the processing time required by some DSP's.
+- You should always plan your release schedule according to the recommendations provided by each DSP
+- Some of them want the content no later than 5-7+ days in advance; especially when concerning feature requests.
+- Other retailers, such as Beatport, Juno, and others may require 3-5 days to process uploads and make your release live, so please keep that in mind when planning your release schedule.
 
 #### Holiday Schedules
+- Also, keep in mind, that many DSP's like Beatport, iTunes, and Spotify have cut-off periods during holiday seasons
+- During which time they have limited resources or are not accepting any uploads
+- You can still schedule your releases to come out during those times, but there may be a delay in processing any new uploads or updates
+-  Some of them may be out of the office entirely and will not be around to make changes or process new uploads. Therefore, it is important to plan your release schedule accordingly.
 
 ### Album Description
+- There are some rules that you should adhere to strictly when adding to your release's description section
+- In general, only include relevant information about this release. Do NOT include promotional offers, links of any kind, email addresses, etc. You can include this type of information later in your workflow. Do not include it in the release's actual description
+- Accepted Content:Album credits, artwork credit, artist biographies, track reviews and descriptive text, and similar info are all acceptable.
+- NOT ACCEPTED: Do not include links, email addresses, or other information which might cause the shops to reject the release.
 
 ### Keywords & Tags
+- Keywords can be very important for SEO and marketing online
+- Adding these keywords and key phrases to both your own website as well as your album and track pages on the DSP's will help you to be found in the search results
+- It is essential that you include the most relevant (and popular) keywords. You should even go a step further to find keyword niches that have high search volume, but low amount of competitors using the keyword.
+- Look into KEI scores for keywords and phrases to find keywords that have lots of search traffic, but have low amount of competing pages that are using the key phrase.
+- There are tools out there to research these things. Also try using your main keywords in your video titles, Soundcloud titles, and all descriptions.
 
 ### Exclusive Periods
 
 ## Track Meta-data
 
+### Artist Names
+- It is important that you include all artist names separately as a Main Artist or Featured Artist (or remixer). There is a separate field for Remixer and Featured artists
+- If it is an artist duo act (i.e. Dodge & Fuski), enter their name exactly as it should appear; example "Dodge & Fuski".
+- However if these two people are separate producers or artist, and not a group, make sure you enter their names as separate artists when you add them to your track.
+- Do NOT use the ampersand (&) unless the artist is a true duo act and their stage name really uses the ampersand.
+- Do NOT enter remix artists in the main or featured artist fields. Remix artist has a dedicated field.
+
+### Primary Artist Roles
+- The main performing artist must be listed as Primary at the album and track level.
+- For artists using “Meets” or “vs.,” all artists involved must be listed at the track level and identified as Primary. The terms “Meets” and “vs.” must only appear in the album or track title.
+
+### Special Guests or Featured Artists
+- The featured artists or special guests should be assigned the role of "Featuring" or "With." If the same featured artist is present on the track level, the artist must also be listed at the album level. However, artists with "Featuring" or "With" roles cannot be designated as Primary.
+- The artist must also be listed at the album level. However, artists with "Featuring" or "With" roles cannot be designated as Primary.
+  
+### Track Title
+- Put the plain track title and no other information.
+- Do not include featuring artists or remix artists in the track title. We will automatically append this information from other fields.
+
+### Mix Version
+- Leave this blank if this is the original version of the track.
+- Do not include the original track title in this field. Only include the mix version portion of the title in this field. See example below.
+
+For example, if the full track artist & title is the following: 
+Depeche Mode - Policy of Truth (DJ Flight Remix) 
+In the above scenario: 
+Artist Name = Depeche Mode 
+Track Title = Policy of Truth 
+Mix Version = DJ Flight Remix 
+Remixer = DJ Flight
+Another example: 
+Underworld - Born Slippy (Radio Edit)
+In the above scenario: 
+Artist Name = Underworld 
+Track Title = Born Slippy 
+Mix Version = Radio Edit 
+Remixer = _leave remixer field blank_
 
 
-## Album level Meta-data
 
-## Track Meta-data
+### Remix Artist
+- If there is no remix artist, leave the remix artist field blank. Otherwise, put ONLY the artist name. Do not put any other information in this field.
+- Example:
+Bad Logik - The Mad Lands (Olie Bassweight Remix) 
+Artist Name = Bad Logik 
+Track Title = The Mad Lands 
+Mix Version = Olie Bassweight Remix 
+Remix Artist = Olie Bassweight
+
+
+## ISRC Codes
+- If this is a new track that has never been released, you can leave this field blank and a new ISRC code will be automatically generated.
+-  Otherwise, if the track has already been released in the past, please enter the original ISRC code from the first time it was released.
+-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -141,6 +258,21 @@ Attention to accurate metadata is a sound investment in your record label’s fu
 - 
 - ISRC's are an international standard used to uniquely identify sound recordings and music video recordings.
 - https://en.wikipedia.org/wiki/International_Standard_Recording_Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -171,7 +303,20 @@ Attention to accurate metadata is a sound investment in your record label’s fu
 - tracks produced for other artists (you must own the master and/or publishing)
 - classical music recordings of compositions in the public domain
 
---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # UPC
 - A Universal Product Code (UPC), also known as a barcode is a unique identification number consisting of 12 or 13 digits and is used for tracking of your product. It is required by all DSP's.
 -  If you make certain changes to the contents of your release; i.e. add, remove, or re-order tracks, a new UPC must be assigned. This is a requirement for many DSP's including iTunes, Spotify, and others.
