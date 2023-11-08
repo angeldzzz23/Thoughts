@@ -48,9 +48,20 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 
 ## Analytics
 -  Proper metadata enables tracking and analysis of your artists' performance. It is crucial for making informed decisions about marketing, promotion, and other label operations.
+-  can can make or break your ability to properly track royalties\
+
+## Revenue tracking 
+- Minimize missing or misplaced royalty payments
+- Normally labels keep track of Streaming royalties, Download sales, Physical sales, Licensing deals and Performance royalties.
+- Consolidating these revenue streams into a single, organized system simplifies your accounting and can help you avoid errors. This also enables you to monitor trends.
+
+
+
 
 
 ## Fucking It Up - Incomplete or incorrect metatada 
+- Incorrect metadata creates confusion and might impact your label’s reputation among fans and industry professionals. Consequently, maintaining accurate metadata helps to: Reduced discoverability, Incorrect categorization and Potential loss of revenue due to inaccurate play counts and sales figures.
+- 
 - loss of revenue
 - Damaged credibility and reputation
 - Legal issues and financial penalties over over rights ownership, copyright violations, licensing difficulties
@@ -66,6 +77,10 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 - Avoid using special characer sor emojis
 - Add all relevant genre tags to improve discoverability
 
+- having correct metadata: 
+ - ATTRACT the right audiences
+ - INCREASE the likelihood of playlist placements
+ - ENCOURAGE long-term growth and sustainability for your label
 
 ## Conclusion - why metadata accuracy is important. 
 It helps you stay organized and manage your growing catalogue efficiently. Proper metadata ensures that your music gets recognized by distributors, streaming platforms, and digital stores. Your artists will benefit from increased visibility, attracting broader audiences and potential fans. Efficient metadata management can lead to accurate royalty payments and prevent lost revenue.
