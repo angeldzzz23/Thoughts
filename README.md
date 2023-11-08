@@ -59,15 +59,13 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 
 
 
-## Fucking It Up - Incomplete or incorrect metatada 
+## Fucking It Up - Incomplete or incorrect metadata 
 - Incorrect metadata creates confusion and might impact your label’s reputation among fans and industry professionals. Consequently, maintaining accurate metadata helps to: Reduced discoverability, Incorrect categorization and Potential loss of revenue due to inaccurate play counts and sales figures.
-- 
 - loss of revenue
 - Damaged credibility and reputation
 - Legal issues and financial penalties over over rights ownership, copyright violations, licensing difficulties
 - Inaccuracy in the chart and award show tracking (awards)
 - Inefficient catalogue management, Difficulties in organization and decision-making based on inaccurate information
-- 
 
 ## Managing your metadata 
 - Accurate metadata is essential when running a record label because it means your artist work is propertly credited, roalties are paid and users can quickly discover your music
@@ -78,9 +76,9 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 - Add all relevant genre tags to improve discoverability
 
 - having correct metadata: 
- - ATTRACT the right audiences
- - INCREASE the likelihood of playlist placements
- - ENCOURAGE long-term growth and sustainability for your label
+ - attract the right audiences
+ - increase the likelihood of playlist placements
+ - encourage long-term growth and sustainability for your label
 
 ## Conclusion - why metadata accuracy is important. 
 It helps you stay organized and manage your growing catalogue efficiently. Proper metadata ensures that your music gets recognized by distributors, streaming platforms, and digital stores. Your artists will benefit from increased visibility, attracting broader audiences and potential fans. Efficient metadata management can lead to accurate royalty payments and prevent lost revenue.
