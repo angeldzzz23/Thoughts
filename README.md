@@ -18,8 +18,6 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 
 # makes it easier to find your music
 
-- makes it easier for users to to find,
-
 - Search engines and music platforms rely on metadta for indexing and categorization
 
 - Insufficient or erroneous metadata can hamper your music’s discoverability, directly impacting sales and streams.
@@ -50,6 +48,13 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 -  Proper metadata enables tracking and analysis of your artists' performance. It is crucial for making informed decisions about marketing, promotion, and other label operations.
 
 
+# Fucking It Up - Incomplete or incorrect metatada 
+- loss of revenue
+- Damaged credibility and reputation
+- Legal issues and financial penalties over over rights ownership, copyright violations, licensing difficulties
+- Inaccuracy in the chart and award show tracking (awards)
+- Inefficient catalogue management, Difficulties in organization and decision-making based on inaccurate information
+- 
 
 # Managing your metadata 
 - Accurate metadata is essential when running a record label because it means your artist work is propertly credited, roalties are paid and users can quickly discover your music
