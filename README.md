@@ -1,6 +1,4 @@
-# Thoughts
-
-La importancia del metadata. 
+# Thoughts - 1
 
 ## Wtf is metadata
 Essentially, metadata is the data that describes your music. In the context of a record label, metadata provides essential information about musical recordings, such as:
