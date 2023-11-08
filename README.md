@@ -220,35 +220,7 @@ Remix Artist = Olie Bassweight
 ## ISRC Codes
 - If this is a new track that has never been released, you can leave this field blank and a new ISRC code will be automatically generated.
 -  Otherwise, if the track has already been released in the past, please enter the original ISRC code from the first time it was released.
--  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------
 
 # ISRC: 
 
@@ -259,23 +231,6 @@ Remix Artist = Olie Bassweight
 - ISRC's are an international standard used to uniquely identify sound recordings and music video recordings.
 - https://en.wikipedia.org/wiki/International_Standard_Recording_Code
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------
 # UGC 
 - User-created content found on services such as TikTok, Snapchat, Instagram, Meta/ Facebook, YouTube. This may include some services that rely on audio finger-printing to identify content across the entire platform.
 - YouTube, Facebook/Instagram, TikTok and other UGC services do not allow the following types of audio: background noise, nature sounds with no music, spoken word, sound effects, audio books, etc.
@@ -304,19 +259,6 @@ Remix Artist = Olie Bassweight
 - classical music recordings of compositions in the public domain
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # UPC
 - A Universal Product Code (UPC), also known as a barcode is a unique identification number consisting of 12 or 13 digits and is used for tracking of your product. It is required by all DSP's.
 -  If you make certain changes to the contents of your release; i.e. add, remove, or re-order tracks, a new UPC must be assigned. This is a requirement for many DSP's including iTunes, Spotify, and others.
@@ -325,10 +267,90 @@ Remix Artist = Olie Bassweight
 ## Updating your UPC/EAN
 -  do a full takedown of the existing product
 
-
-
-
-
+# DSPs  (there are probably more )
+Trebel 
+7Digital
+8Tracks
+ACR Cloud
+Akazoo (Greece)
+Alibaba (China)
+Amazon MP3
+AMI Entertainment
+Anghami
+Apple Music/iTunes
+AudibleMagic
+Audiomack
+AWA (Japan)
+*Bandcamp*
+*Beatport*
+Boomplay
+ClicknClear
+Deezer
+Digital-Tunes
+DJTunes
+d'Music
+dnbradio 
+MePlaylist
+MonkingMe
+Music Reports
+MusicTime!
+Facebook (fingerprint + library)
+Electric Jukebox
+Express In Music
+GooglePlay Store
+Gracenote / Nielson Soundscan
+iam+Dial
+IMSTREAM
+iHeart Radio
+Jaxsta
+Juno Download
+KDM (K Digital Media)
+Kan Music
+KKBOX (Tawain)
+KUGO
+KUWO Music
+Medianet
+Mixcloud
+My World (Russia)
+Napster (Rhapsody)
+NetEase (China)
+Odnoklassniki (Russia)
+Pandora
+Pretzel
+Project M
+Pulselocker
+QQ
+Quobuz
+Resso
+ROXI
+Saavn (India)
+Shazaam
+SimfyAfrica
+Sirius XM
+Slacker Radio
+Snap
+Soundcloud (Monetization & Territory Rights)
+Soundcloud Direct Channel Upload
+SoundExchange
+Soundtrack Your Brand
+Spotify
+Symphonic XML Import
+Upload direct to your own Symphonic account
+Tencent
+TIDAL
+TikTok
+TouchTunes
+Triller
+UMA (Russia)
+vKontakte (Russia)
+WEYV
+Yandex (Russia)
+YouSee / Telmore Musik
+YouTube Content ID
+YouTube Direct Channel Upload
+YouTube 24/7 Streaming
+powered by LabelGrid Streamer
+YouTube Music
 
 
 
