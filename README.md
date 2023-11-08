@@ -268,89 +268,89 @@ Remix Artist = Olie Bassweight
 -  do a full takedown of the existing product
 
 # DSPs  (there are probably more )
-Trebel 
-7Digital
-8Tracks
-ACR Cloud
-Akazoo (Greece)
-Alibaba (China)
-Amazon MP3
-AMI Entertainment
-Anghami
-Apple Music/iTunes
-AudibleMagic
-Audiomack
-AWA (Japan)
-*Bandcamp*
-*Beatport*
-Boomplay
-ClicknClear
-Deezer
-Digital-Tunes
-DJTunes
-d'Music
-dnbradio 
-MePlaylist
-MonkingMe
-Music Reports
-MusicTime!
-Facebook (fingerprint + library)
-Electric Jukebox
-Express In Music
-GooglePlay Store
-Gracenote / Nielson Soundscan
-iam+Dial
-IMSTREAM
-iHeart Radio
-Jaxsta
-Juno Download
-KDM (K Digital Media)
-Kan Music
-KKBOX (Tawain)
-KUGO
-KUWO Music
-Medianet
-Mixcloud
-My World (Russia)
-Napster (Rhapsody)
-NetEase (China)
-Odnoklassniki (Russia)
-Pandora
-Pretzel
-Project M
-Pulselocker
-QQ
-Quobuz
-Resso
-ROXI
-Saavn (India)
-Shazaam
-SimfyAfrica
-Sirius XM
-Slacker Radio
-Snap
-Soundcloud (Monetization & Territory Rights)
-Soundcloud Direct Channel Upload
-SoundExchange
-Soundtrack Your Brand
-Spotify
-Symphonic XML Import
-Upload direct to your own Symphonic account
-Tencent
-TIDAL
-TikTok
-TouchTunes
-Triller
-UMA (Russia)
-vKontakte (Russia)
-WEYV
-Yandex (Russia)
-YouSee / Telmore Musik
-YouTube Content ID
-YouTube Direct Channel Upload
-YouTube 24/7 Streaming
-powered by LabelGrid Streamer
-YouTube Music
+- Trebel 
+- 7Digital
+- 8Tracks
+- ACR Cloud
+- Akazoo (Greece)
+- Alibaba (China)
+- Amazon MP3
+- AMI Entertainment
+- Anghami
+- Apple Music/iTunes
+- AudibleMagic
+- Audiomack
+- AWA (Japan)
+- *Bandcamp*
+- *Beatport*
+- Boomplay
+- ClicknClear
+- Deezer
+- Digital-Tunes
+- DJTunes
+- d'Music
+- dnbradio 
+- MePlaylist
+- MonkingMe
+- Music Reports
+- MusicTime!
+- Facebook (fingerprint + library)
+- Electric Jukebox
+- Express In Music
+- GooglePlay Store
+- Gracenote / Nielson Soundscan
+- iam+Dial
+- IMSTREAM
+- iHeart Radio
+- Jaxsta
+- Juno Download
+- KDM (K Digital Media)
+- Kan Music
+- KKBOX (Tawain)
+- KUGO
+- KUWO Music
+- Medianet
+- Mixcloud
+- My World (Russia)
+- Napster (Rhapsody)
+- NetEase (China)
+- Odnoklassniki (Russia)
+- Pandora
+- Pretzel
+- Project M
+- Pulselocker
+- QQ
+- Quobuz
+- Resso
+- ROXI
+- Saavn (India)
+- Shazaam
+- SimfyAfrica
+- Sirius XM
+- Slacker Radio
+- Snap
+- Soundcloud (Monetization & Territory Rights)
+- Soundcloud Direct Channel Upload
+- SoundExchange
+- Soundtrack Your Brand
+- Spotify
+- Symphonic XML Import
+- Upload direct to your own Symphonic account
+- Tencent
+- TIDAL
+- TikTok
+- TouchTunes
+- Triller
+- UMA (Russia)
+- vKontakte (Russia)
+- WEYV
+- Yandex (Russia)
+- YouSee / Telmore Musik
+- YouTube Content ID
+- YouTube Direct Channel Upload
+- YouTube 24/7 Streaming
+- powered by LabelGrid Streamer
+- YouTube Music
 
 
 
