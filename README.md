@@ -18,7 +18,7 @@ Track titles, Album names,Artist names, Genres, Release dates, Songwriters, Prod
 
 ## makes it easier to find your music
 
-- Search engines and music platforms rely on metadta for indexing and categorization
+- Search engines and music platforms rely on metadata for indexing and categorization
 
 - Insufficient or erroneous metadata can hamper your music’s discoverability, directly impacting sales and streams.
 
